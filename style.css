@@ -64,6 +64,19 @@ float: left;
 margin-right: 20px;
 }
 
+#what_we_offer_content {
+display: block;
+text-align:center;
+width: 1024px;
+margin: 0 auto;
+font-size:18px;
+}
+
+#what_we_offer_photo {
+float: right;
+margin-left: 20px;
+}
+
 #footer {
 display: block;
 text-align:center;
