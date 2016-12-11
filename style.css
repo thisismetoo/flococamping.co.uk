@@ -22,7 +22,7 @@ height: 44px;
 background: url(images/Floco_Camping_navbar_background.jpg) no-repeat;
 }
 
-.hmenu {
+.menu {
 height: 44px;
 width: 20%;
 text-align:center;
@@ -48,12 +48,17 @@ color: #197b6e;
 }
 
 #home_content {
-width: 100%;
+width: 1024px;
 font-size:18px;
+display: block;
 text-align:center;
-
 }
 
+.content {
+position:relative;
+
+text-align:right;
+}
 /* below not used 
  * remove when finished */
 
