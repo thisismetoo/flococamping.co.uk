@@ -1,0 +1,139 @@
+
+body {
+margin-top: 24px;
+font-family: Geneva, Arial, Helvetica, sans-serif;
+text-align: left;
+font-size: 12px;
+background: url(images/Floco_Camping_background.jpg) repeat;
+}
+
+#banner {
+width: 100%;
+text-align: center;
+display: block;
+}
+
+#navbar {
+display: block;
+text-align:center;
+width: 1024px;
+margin: 0 auto;
+height: 44px;
+background: url(images/Floco_Camping_navbar_background.jpg) no-repeat;
+}
+
+.hmenu {
+height: 44px;
+width: 20%;
+text-align:center;
+float:left;
+font-family: "Century Gothic", Verdana, sans-serif;
+font-size:18px;
+font-weight:bold;
+line-height:44px;
+color: #197b6e;
+}
+
+.block_click {
+display:block;
+text-decoration:none;
+}
+
+a {
+color: #e5ece2;
+}
+
+a:hover {
+color: #197b6e;
+}
+
+
+
+/* below not used 
+ * remove when finished */
+
+.heading {
+font-size: 18pt;
+text-align: center;
+}
+.subheading {
+font-size: 16pt;
+text-align: center;
+}
+.navigation {
+font-size: 13pt;
+}
+#info {
+position: absolute; left: 24px; top: 220px;
+background-color: silver; width: 300px; 
+}
+#landscape {
+position: absolute; left: 480px; top: 220px;
+}
+#portrait {
+position: absolute; left: 24px; top: 300px;
+}
+#featuretext {
+position: absolute; left: 250px; top: 424px;
+width:540px;
+font-size: 14px;
+color: #000000;
+}
+#rooms {
+position: absolute; left: 280px; top: 640px;
+background-color: silver; 
+}
+#accentimages {
+position: absolute; left: 24px; top: 750px;
+}
+.footer {
+position: absolute; left: 24px; top: 980px;
+color: #000000;
+}
+.slide {
+position: absolute; left: 24px; top: 250px; 
+}
+.slidetitle {
+position: absolute; left: 180px; top: 890px; 
+color: #000000;
+}
+.slideprevious {
+position: absolute; left: 24px; top: 920px; 
+color: #000000;
+}
+.slidenext {
+position: absolute; left: 420px; top: 920px; 
+color: #000000;
+}
+#map { 
+position: absolute; left: 20px; 
+}
+#address {
+position: absolute; left: 440px; top: 360px;
+}
+.title {
+margin-top: 48px;
+font-size: 14pt;
+font-weight: bold;
+margin-bottom: 24px;
+}
+.linkdescription {
+width:270px;
+}
+.link {
+color: #000000;
+margin-bottom: 24px;
+}
+.underlined {
+text-decoration: underline;
+}
+.price_details {
+margin-bottom: 24px;
+}
+#contact_details {
+margin-bottom: 24px;
+}
+#forminfo {
+font-family: Geneva, Arial, Helvetica, sans-serif;
+font-size: 13px; 
+}
