@@ -33,8 +33,15 @@
       <p>Telephone:<br>
       To be confirmed</p>
       <p>Email:<br>
-      <a href="mailto:flococamping@gmail.com">flococamping<span style="display:none">foo</span>@gmail.com</p>
-      
+      <script type="text/javascript">
+        var mato = 'mailto:flococamping';
+        mato += '\u0040';
+        mato += 'gmail';
+        mato += '\u002E';
+        mato += 'com';
+        document.write('<a href="' + mato + '">flococamping<span style="display:none">foo</span>@gmail.com</a>');
+      </script>
+      </p>
    </div>
   </div>
 <!--content ends-->
