@@ -77,16 +77,48 @@ float: right;
 margin-left: 20px;
 }
 
+#useful_contacts_content {
+display: block;
+text-align:center;
+width: 1024px;
+height: 550px;
+margin: 10px auto 20px;
+font-size:20px;
+}
+
+#useful_contacts_content_left {
+margin-top: 20px;
+float: left;
+width: 50%;
+font-size:12px;
+}
+
+#useful_contacts_content_left_photo {
+float: right;
+margin-left: 20px;
+}
+
+#useful_contacts_content_right {
+float: right;
+width: 50%;
+}
+
 #footer {
 display: block;
 text-align:center;
 width: 1024px;
-margin: 0 auto;
+margin: 20px auto 5px;
 }
 
 #footer_wrapper {
 text-align:left;
 }
+
+
+
+
+
+
 
 
 /* below not used 
