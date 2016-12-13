@@ -151,6 +151,11 @@ margin: 10px auto 20px;
 font-size:20px;
 }
 
+#contact_us_facebook_photo {
+float: left;
+margin-right: 20px;
+}
+
 #footer {
 display: block;
 text-align:center;
